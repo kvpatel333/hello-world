@@ -1,5 +1,4 @@
 # hello-world
-just another repository
 print("Goodbye, World!")
 print "Hello World!"
 print "Hello Again"
